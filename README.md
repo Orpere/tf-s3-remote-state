@@ -1,6 +1,5 @@
 #tf-s3-remote-state
 
-- [x] Install [tfswitch](https://warrensbox.github.io/terraform-switcher/) and chose terraform 11
 - [x] Install [git](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
 - [x] How to use this repo
 
